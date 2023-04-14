@@ -76,6 +76,10 @@ section {
     align-items: center;   
 }
 
+.home-content {
+    padding-right: 12rem;
+}
+
 .home-img img {
     width: 35vw;
     border-radius: 50%;
